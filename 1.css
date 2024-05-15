@@ -105,7 +105,7 @@
   }
   @media (min-width: 850px) {
     nav {
-      max-width: 1200px;
+      max-width: 1201px;
       margin: 0 auto;
     }
     nav li:first-child {
